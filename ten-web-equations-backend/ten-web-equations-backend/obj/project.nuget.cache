@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "b76bUr65dNleC6AeVMvRsMNpuhdhxEOfV38RkAFuMCvEqKPkjaVEyvQm8oeI2H853N9I4WR0juoD7HP0zjYx4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Personal\\ten-web-equations\\ten-web-equations-backend\\ten-web-equations-backend\\ten-web-equations-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lee derek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lee derek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lee derek\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\lee derek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\lee derek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\lee derek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
